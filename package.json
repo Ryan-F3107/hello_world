@@ -1,0 +1,22 @@
+{
+  "name": "hello_world",
+  "version": "1.0.0",
+  "description": "Learning my way around",
+  "main": "script-g.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ryan-F3107/hello_world.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ryan-F3107/hello_world/issues"
+  },
+  "homepage": "https://github.com/Ryan-F3107/hello_world#readme",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
