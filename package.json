@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/Ryan-F3107/hello_world#readme",
   "dependencies": {
-    "lodash": "^4.17.15"
+    "lodash": "^4.17.19"
   }
 }
